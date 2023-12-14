@@ -5,6 +5,7 @@ import MainStackNavigator from './src/navigation/navigation'
 import ContextProvider from './src/context/ContextProvider';
 
 const App = () => {
+  console.log('')
 
   return (
     <ContextProvider>
