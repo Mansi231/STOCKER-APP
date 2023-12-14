@@ -1,0 +1,38 @@
+# Dependency directories
+node_modules/
+
+# Gradle files
+android/.gradle/
+android/app/build/
+android/build/
+
+# Logs
+logs/
+*.log
+
+# macOS
+.DS_Store
+
+# Android
+android/local.properties
+android/.idea/
+
+# iOS
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/Podfile.user.lock
+ios/Pods_Packager.framework/
+
+# Compiled files
+*.apk
+*.ap_
+
+# Android Studio
+.idea/
+
+# VS Code
+.vscode/
+
+# Jest
+coverage/
